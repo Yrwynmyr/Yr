@@ -1,0 +1,41 @@
+.App {
+background-color: grey;
+    text-align: center;
+}
+
+.App-logo {
+  animation: App-logo-spin infinite 200s linear;
+  height: 200px;
+}
+
+.App-header {
+  background-image: url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROGVRfONxqg6DIbjuUlXc_uhSIB8NfSQ6cjWnEIePe57YRl8FvDA');
+  height: 400px;
+  padding: 20px;
+  color: white;
+}
+.App-header, h1 {
+	
+
+}
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+.top {
+	
+}
+.left-column {
+	float: left;
+	
+}
+.right-column {
+	float: right;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
