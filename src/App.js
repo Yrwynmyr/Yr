@@ -11,7 +11,7 @@ class App extends Component {
           
         </header>
         <h1 className="App-title">Yrwynmyr</h1>
-        <p className="App-intro">.
+        <p className="App-intro">.</p>
     );
   }
 }
