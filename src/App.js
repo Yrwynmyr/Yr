@@ -3,12 +3,9 @@ import "./index.js";
 
 export class App extends ReactComponent{
 render(){
-return(
-
-
-);
+return(App);
 }
 }
 
 
-
+default App;
