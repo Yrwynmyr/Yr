@@ -8,4 +8,3 @@ return(App);
 }
 
 
-default App;
