@@ -1,8 +1,4 @@
 import React, { Component } from 'react';
-import Sun from './sun.gif';
-import TheHeights from './TheHeights.mp3';
-import Delusion from './Delusion.mp3';
-import IceBurgs from './IceBurgs.mp3';
 import './App.css';
 
 
