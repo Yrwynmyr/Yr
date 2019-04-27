@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import Sun from "./sun.gif";
 import './App.css';
 
 
